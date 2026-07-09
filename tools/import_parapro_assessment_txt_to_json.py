@@ -288,7 +288,7 @@ def update_config(exam_files, printables):
     cfg["examId"] = "parapro-assessment"
     cfg["brandName"] = "ParaPro Assessment Exam Simulator"
     cfg["theme"] = "dark"
-    cfg["logoPath"] = "../packs/parapro-assessment/assets/logo.png?v=1"
+    cfg["logoPath"] = "../packs/parapro-assessment/assets/logo.png?v=2"
     cfg["accessPassword"] = "PARAPROREADY"
     cfg["practiceChunkSize"] = 10
     cfg["nav"] = ["Home", "Exam Simulator", "Printable Practice Exams"]
