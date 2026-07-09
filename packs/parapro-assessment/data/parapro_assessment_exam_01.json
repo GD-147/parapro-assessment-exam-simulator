@@ -1,0 +1,1626 @@
+{
+  "title": "ParaPro Assessment Practice Test 01",
+  "section": "full",
+  "questions": [
+    {
+      "id": "PARAPRO1-001",
+      "itemType": "mcq_single",
+      "type": "mcq",
+      "section": "full",
+      "category": "Reading",
+      "skill": "Main idea",
+      "prompt": "Read the passage.\nDuring the first week of school, Ms. Alvarez asks students to keep a reading log. Each day, students write the title of what they read, the number of pages they completed, and one sentence about something they noticed. Ms. Alvarez explains that the log is not meant to be a race to read the most pages. Instead, it helps students notice their own reading habits and think about what helps them stay focused.\nWhat is the main idea of the passage?",
+      "choices": {
+        "A": "Students should try to read more pages than their classmates.",
+        "B": "Reading logs help students track and reflect on their reading.",
+        "C": "Ms. Alvarez grades students mainly on the number of books they finish.",
+        "D": "Students should only read books chosen by the teacher."
+      },
+      "correct": "B",
+      "correctAnswer": "Reading logs help students track and reflect on their reading.",
+      "explanation": "The passage explains that the log helps students notice reading habits and think about focus, not compete over page totals."
+    },
+    {
+      "id": "PARAPRO1-002",
+      "itemType": "mcq_single",
+      "type": "mcq",
+      "section": "full",
+      "category": "Reading",
+      "skill": "Supporting detail",
+      "prompt": "Read the passage.\nThe school cafeteria will begin serving breakfast at 7:30 a.m. instead of 7:45 a.m. Students who arrive early may enter through the side door near the gym. Breakfast will include fruit, milk, and a hot item each day. Students should finish eating before reporting to homeroom at 8:00 a.m.\nAccording to the announcement, what should students do before reporting to homeroom?",
+      "choices": {
+        "A": "Pick up lunch forms from the office",
+        "B": "Enter through the front entrance",
+        "C": "Finish eating breakfast",
+        "D": "Meet outside the gym"
+      },
+      "correct": "C",
+      "correctAnswer": "Finish eating breakfast",
+      "explanation": "The announcement says students should finish eating before reporting to homeroom at 8:00 a.m."
+    },
+    {
+      "id": "PARAPRO1-003",
+      "itemType": "mcq_single",
+      "type": "mcq",
+      "section": "full",
+      "category": "Reading",
+      "skill": "Vocabulary in context",
+      "prompt": "Read the sentence.\nThe class expected the science demonstration to be brief, but it became lengthy when several students asked thoughtful questions.\nWhat does the word lengthy most nearly mean?",
+      "choices": {
+        "A": "Confusing",
+        "B": "Noisy",
+        "C": "Long",
+        "D": "Difficult"
+      },
+      "correct": "C",
+      "correctAnswer": "Long",
+      "explanation": "The sentence contrasts brief with lengthy, so lengthy means long."
+    },
+    {
+      "id": "PARAPRO1-004",
+      "itemType": "mcq_single",
+      "type": "mcq",
+      "section": "full",
+      "category": "Reading",
+      "skill": "Inference",
+      "prompt": "Read the passage.\nJamal checked the classroom clock and quickly placed his notebook, pencil, and library book into his backpack. He looked at the homework board one more time before joining the line at the door. “I do not want to forget the reading assignment again,” he said.\nWhat can be inferred about Jamal?",
+      "choices": {
+        "A": "He is preparing to leave class.",
+        "B": "He does not enjoy reading books.",
+        "C": "He plans to ask for a new seat.",
+        "D": "He has already finished all of his homework."
+      },
+      "correct": "A",
+      "correctAnswer": "He is preparing to leave class.",
+      "explanation": "Jamal packs his materials and joins the line at the door, which shows he is getting ready to leave."
+    },
+    {
+      "id": "PARAPRO1-005",
+      "itemType": "mcq_single",
+      "type": "mcq",
+      "section": "full",
+      "category": "Reading",
+      "skill": "Author’s purpose",
+      "prompt": "Read the passage.\nPlease remember to return all permission slips by Friday. The museum visit cannot be finalized until the school has an accurate count of students attending. If a student needs another copy of the form, one may be picked up in the main office.\nWhat is the author’s main purpose?",
+      "choices": {
+        "A": "To entertain students with a story about a museum",
+        "B": "To persuade students that museums are better than classrooms",
+        "C": "To inform students about a deadline and procedure",
+        "D": "To compare different field trip locations"
+      },
+      "correct": "C",
+      "correctAnswer": "To inform students about a deadline and procedure",
+      "explanation": "The passage gives information about when permission slips are due and where to get another copy."
+    },
+    {
+      "id": "PARAPRO1-006",
+      "itemType": "mcq_single",
+      "type": "mcq",
+      "section": "full",
+      "category": "Reading",
+      "skill": "Text organization",
+      "prompt": "Read the passage.\nFirst, rinse the paintbrush in warm water. Next, gently press the bristles against a paper towel to remove extra water. Finally, place the brush with the handle down so the bristles can dry without bending.\nHow is the passage organized?",
+      "choices": {
+        "A": "By listing steps in order",
+        "B": "By comparing two different tools",
+        "C": "By describing a problem and solution",
+        "D": "By explaining causes and effects"
+      },
+      "correct": "A",
+      "correctAnswer": "By listing steps in order",
+      "explanation": "The words First, Next, and Finally show that the directions are organized as steps."
+    },
+    {
+      "id": "PARAPRO1-007",
+      "itemType": "mcq_single",
+      "type": "mcq",
+      "section": "full",
+      "category": "Reading",
+      "skill": "Tone",
+      "prompt": "Read the passage.\nThe hallway display looks much brighter now that students have added their book recommendation cards. Each card includes a title, a short summary, and a reason another student might enjoy the book. The display gives everyone a friendly way to discover something new to read.\nWhich word best describes the tone of the passage?",
+      "choices": {
+        "A": "Worried",
+        "B": "Encouraging",
+        "C": "Angry",
+        "D": "Uncertain"
+      },
+      "correct": "B",
+      "correctAnswer": "Encouraging",
+      "explanation": "The passage presents the display positively and says it helps students discover new books."
+    },
+    {
+      "id": "PARAPRO1-008",
+      "itemType": "mcq_single",
+      "type": "mcq",
+      "section": "full",
+      "category": "Reading",
+      "skill": "Summarizing",
+      "prompt": "Read the passage.\nThe class planted bean seeds in small cups near the window. Some cups received water every day, while others received water only twice a week. Students recorded the height of each plant every Friday. After three weeks, they compared their notes to discuss how watering affected plant growth.\nWhich sentence best summarizes the passage?",
+      "choices": {
+        "A": "Students grew bean plants and compared how different watering schedules affected growth.",
+        "B": "Students learned that all plants should be watered only twice a week.",
+        "C": "Students moved plants away from the window after three weeks.",
+        "D": "Students measured plants every morning before class began."
+      },
+      "correct": "A",
+      "correctAnswer": "Students grew bean plants and compared how different watering schedules affected growth.",
+      "explanation": "This choice includes the main activity and purpose of the experiment without adding unnecessary details."
+    },
+    {
+      "id": "PARAPRO1-009",
+      "itemType": "mcq_single",
+      "type": "mcq",
+      "section": "full",
+      "category": "Reading",
+      "skill": "Identifying evidence",
+      "prompt": "Read the passage.\nMia prefers working in the quiet corner of the classroom during independent reading. When the class reads at their desks, she often looks around and loses her place. In the quiet corner, she follows the page with her finger and usually finishes the assigned pages.\nWhich detail best supports the idea that the quiet corner helps Mia focus?",
+      "choices": {
+        "A": "Mia prefers working in the quiet corner of the classroom during independent reading.",
+        "B": "When the class reads at their desks, she often looks around and loses her place.",
+        "C": "In the quiet corner, she follows the page with her finger and usually finishes the assigned pages.",
+        "D": "The class reads at their desks during independent reading."
+      },
+      "correct": "C",
+      "correctAnswer": "In the quiet corner, she follows the page with her finger and usually finishes the assigned pages.",
+      "explanation": "This detail directly shows that Mia stays on task and completes her reading in the quiet corner."
+    },
+    {
+      "id": "PARAPRO1-010",
+      "itemType": "mcq_single",
+      "type": "mcq",
+      "section": "full",
+      "category": "Reading",
+      "skill": "Interpreting informational text",
+      "prompt": "Read the notice.\nBook Club Meeting\nTuesday, 3:15–4:00 p.m.\nRoom 204\nBring the book you are currently reading. Students will share one favorite part and listen to recommendations from classmates. Snacks will not be served, so students should eat before the meeting.\nWhat should students bring to the meeting?",
+      "choices": {
+        "A": "A signed permission slip",
+        "B": "A book they are currently reading",
+        "C": "A snack to share with classmates",
+        "D": "A list of homework assignments"
+      },
+      "correct": "B",
+      "correctAnswer": "A book they are currently reading",
+      "explanation": "The notice clearly says students should bring the book they are currently reading."
+    },
+    {
+      "id": "PARAPRO1-011",
+      "itemType": "mcq_single",
+      "type": "mcq",
+      "section": "full",
+      "category": "Reading",
+      "skill": "Inference",
+      "prompt": "Read the passage.\nWhen the class entered the room, the desks had been pushed into groups of four. Each group had a stack of index cards, markers, and a timer. On the board, the teacher had written, “Review Game: Work as a team.”\nWhat can the reader reasonably infer?",
+      "choices": {
+        "A": "The students will take a silent test.",
+        "B": "The students will work together on an activity.",
+        "C": "The teacher forgot to prepare materials.",
+        "D": "The class will go outside for recess."
+      },
+      "correct": "B",
+      "correctAnswer": "The students will work together on an activity.",
+      "explanation": "The grouped desks, shared materials, timer, and board message all suggest a team activity."
+    },
+    {
+      "id": "PARAPRO1-012",
+      "itemType": "mcq_single",
+      "type": "mcq",
+      "section": "full",
+      "category": "Reading",
+      "skill": "Vocabulary in context",
+      "prompt": "Read the passage.\nLena revised her paragraph after receiving feedback. She replaced vague words like “things” and “stuff” with more specific nouns. Her final draft was clearer because readers could picture exactly what she meant.\nWhat does vague mean in the passage?",
+      "choices": {
+        "A": "Not clear or specific",
+        "B": "Carefully written",
+        "C": "Too short to understand",
+        "D": "Correctly spelled"
+      },
+      "correct": "A",
+      "correctAnswer": "Not clear or specific",
+      "explanation": "The passage contrasts vague words with more specific nouns that make the writing clearer."
+    },
+    {
+      "id": "PARAPRO1-013",
+      "itemType": "mcq_single",
+      "type": "mcq",
+      "section": "full",
+      "category": "Reading",
+      "skill": "Main idea",
+      "prompt": "Read the passage.\nA school garden can be useful even when classes are not studying plants. Math students can measure garden beds and calculate area. Art students can sketch leaves and flowers. Writing students can keep observation journals. Because of this, the garden gives many classes a hands-on place to learn.\nWhat is the main idea of the passage?",
+      "choices": {
+        "A": "A school garden can support learning in several subjects.",
+        "B": "Art students should spend more time drawing plants.",
+        "C": "Garden beds must be measured before students use them.",
+        "D": "Observation journals are the most important classroom activity."
+      },
+      "correct": "A",
+      "correctAnswer": "A school garden can support learning in several subjects.",
+      "explanation": "The passage gives examples of how math, art, and writing classes can all use the garden."
+    },
+    {
+      "id": "PARAPRO1-014",
+      "itemType": "mcq_single",
+      "type": "mcq",
+      "section": "full",
+      "category": "Reading",
+      "skill": "Author’s purpose",
+      "prompt": "Read the passage.\nOur class will collect clean plastic bottle caps for a counting project next month. Please send only bottle caps that have been washed and dried. Students will sort the caps by color, count each group, and use the totals to make simple graphs.\nWhy did the author most likely write this note?",
+      "choices": {
+        "A": "To explain how plastic bottles are made",
+        "B": "To ask families to send a specific classroom material",
+        "C": "To describe why graphs are difficult for students",
+        "D": "To tell students to stop using plastic bottles"
+      },
+      "correct": "B",
+      "correctAnswer": "To ask families to send a specific classroom material",
+      "explanation": "The note asks families to send clean, dry bottle caps for a class project."
+    },
+    {
+      "id": "PARAPRO1-015",
+      "itemType": "mcq_single",
+      "type": "mcq",
+      "section": "full",
+      "category": "Reading",
+      "skill": "Text organization",
+      "prompt": "Read the passage.\nMany students find it hard to keep track of long-term assignments. One solution is to break a large task into smaller parts. A student might choose a topic on Monday, find sources on Tuesday, write notes on Wednesday, and draft a paragraph on Thursday.\nWhich organizational pattern does the passage mainly use?",
+      "choices": {
+        "A": "Cause and effect",
+        "B": "Problem and solution",
+        "C": "Compare and contrast",
+        "D": "Chronological biography"
+      },
+      "correct": "B",
+      "correctAnswer": "Problem and solution",
+      "explanation": "The passage first states a problem, then gives a solution for managing long-term assignments."
+    },
+    {
+      "id": "PARAPRO1-016",
+      "itemType": "mcq_single",
+      "type": "mcq",
+      "section": "full",
+      "category": "Reading",
+      "skill": "Supporting detail",
+      "prompt": "Read the passage.\nThe after-school homework room is open Monday through Thursday from 3:10 p.m. to 4:00 p.m. Students may work quietly, ask for help, or use classroom reference books. Computers are available only for school assignments. Students must sign in when they arrive.\nWhich activity is allowed in the homework room?",
+      "choices": {
+        "A": "Playing computer games after finishing work",
+        "B": "Using classroom reference books",
+        "C": "Meeting friends for loud group games",
+        "D": "Leaving without signing in"
+      },
+      "correct": "B",
+      "correctAnswer": "Using classroom reference books",
+      "explanation": "The passage says students may use classroom reference books in the homework room."
+    },
+    {
+      "id": "PARAPRO1-017",
+      "itemType": "mcq_single",
+      "type": "mcq",
+      "section": "full",
+      "category": "Reading",
+      "skill": "Fact and opinion",
+      "prompt": "Read the sentences.\n1. The class read three poems on Wednesday. \n2. The poem about the ocean was the most beautiful. \n3. Each student chose one poem to discuss. \n4. The discussion lasted twenty minutes. \nWhich sentence states an opinion?",
+      "choices": {
+        "A": "The class read three poems on Wednesday.",
+        "B": "The poem about the ocean was the most beautiful.",
+        "C": "Each student chose one poem to discuss.",
+        "D": "The discussion lasted twenty minutes."
+      },
+      "correct": "B",
+      "correctAnswer": "The poem about the ocean was the most beautiful.",
+      "explanation": "The word beautiful expresses a personal judgment, so the sentence is an opinion."
+    },
+    {
+      "id": "PARAPRO1-018",
+      "itemType": "mcq_single",
+      "type": "mcq",
+      "section": "full",
+      "category": "Reading",
+      "skill": "Interpreting directions",
+      "prompt": "Read the directions.\nBefore beginning the quiz, write your name on the answer sheet. Read each question carefully. Choose the best answer and fill in the matching circle. If you finish early, check your work quietly until time is called.\nWhat should students do if they finish early?",
+      "choices": {
+        "A": "Begin talking with a neighbor",
+        "B": "Leave the room immediately",
+        "C": "Check their work quietly",
+        "D": "Turn the quiz over and draw"
+      },
+      "correct": "C",
+      "correctAnswer": "Check their work quietly",
+      "explanation": "The directions state that students who finish early should check their work quietly until time is called."
+    },
+    {
+      "id": "PARAPRO1-019",
+      "itemType": "mcq_single",
+      "type": "mcq",
+      "section": "full",
+      "category": "Reading",
+      "skill": "Inference",
+      "prompt": "Read the passage.\nThe class pet’s water bowl was empty when Nora arrived in the morning. The classroom calendar showed that Nora was the helper for Tuesday. She filled the bowl before putting away her backpack.\nWhat can the reader infer?",
+      "choices": {
+        "A": "Nora forgot that she was the classroom helper.",
+        "B": "Nora knew she was responsible for helping with the class pet.",
+        "C": "The class pet does not need water every day.",
+        "D": "The teacher asked Nora to clean the calendar."
+      },
+      "correct": "B",
+      "correctAnswer": "Nora knew she was responsible for helping with the class pet.",
+      "explanation": "Nora sees she is the Tuesday helper and fills the empty water bowl, showing she understands her responsibility."
+    },
+    {
+      "id": "PARAPRO1-020",
+      "itemType": "mcq_single",
+      "type": "mcq",
+      "section": "full",
+      "category": "Reading",
+      "skill": "Summarizing",
+      "prompt": "Read the passage.\nIn the late afternoon, the school hallway becomes busy. Students return library books, gather instruments for music lessons, and collect projects from classrooms. Teachers remind students to walk carefully because many people are moving in different directions at once.\nWhich sentence best summarizes the passage?",
+      "choices": {
+        "A": "Students should not visit the library in the afternoon.",
+        "B": "The hallway is busy after school, so students need to move carefully.",
+        "C": "Music lessons are the most popular after-school activity.",
+        "D": "Teachers collect all student projects at the end of the day."
+      },
+      "correct": "B",
+      "correctAnswer": "The hallway is busy after school, so students need to move carefully.",
+      "explanation": "This summary captures both the busy hallway and the teacher’s reminder to walk carefully."
+    },
+    {
+      "id": "PARAPRO1-021",
+      "itemType": "mcq_single",
+      "type": "mcq",
+      "section": "full",
+      "category": "Reading",
+      "skill": "Supporting student comprehension",
+      "prompt": "A paraprofessional is helping a student read a short passage about how a caterpillar becomes a butterfly. The student says, “I read all the words, but I do not know what happened first.”\nWhich support would best help the student understand the sequence?",
+      "choices": {
+        "A": "Ask the student to list the events in the order they happened",
+        "B": "Tell the student to skip the passage and choose an answer quickly",
+        "C": "Ask the student to count how many sentences are in the passage",
+        "D": "Tell the student to memorize the longest word in the passage"
+      },
+      "correct": "A",
+      "correctAnswer": "Ask the student to list the events in the order they happened",
+      "explanation": "Since the student is confused about what happened first, arranging events in order directly supports understanding sequence."
+    },
+    {
+      "id": "PARAPRO1-022",
+      "itemType": "mcq_single",
+      "type": "mcq",
+      "section": "full",
+      "category": "Reading",
+      "skill": "Helping students use context clues",
+      "prompt": "A student reads the sentence, “The hallway was congested after the assembly because several classes were leaving at the same time.” The student does not know the word congested.\nWhich question should a paraprofessional ask to guide the student to use context clues?",
+      "choices": {
+        "A": "“Can you spell the word without looking?”",
+        "B": "“What was happening in the hallway after the assembly?”",
+        "C": "“Have you seen this word in a science textbook?”",
+        "D": "“Which letter comes first in the word?”"
+      },
+      "correct": "B",
+      "correctAnswer": "“What was happening in the hallway after the assembly?”",
+      "explanation": "This question directs the student back to the surrounding words, which explain that several classes were leaving at once."
+    },
+    {
+      "id": "PARAPRO1-023",
+      "itemType": "mcq_single",
+      "type": "mcq",
+      "section": "full",
+      "category": "Reading",
+      "skill": "Identifying evidence",
+      "prompt": "A student says that a character in a story is nervous before giving a class presentation. The passage says, “Evan shuffled his note cards, took a deep breath, and looked down when his name was called.”\nWhich detail best supports the student’s idea?",
+      "choices": {
+        "A": "Evan had note cards.",
+        "B": "Evan took a deep breath and looked down when his name was called.",
+        "C": "Evan was in a classroom.",
+        "D": "Evan’s name was called."
+      },
+      "correct": "B",
+      "correctAnswer": "Evan took a deep breath and looked down when his name was called.",
+      "explanation": "Taking a deep breath and looking down are details that can suggest nervousness before a presentation."
+    },
+    {
+      "id": "PARAPRO1-024",
+      "itemType": "mcq_single",
+      "type": "mcq",
+      "section": "full",
+      "category": "Reading",
+      "skill": "Selecting a reading support strategy",
+      "prompt": "A student reads a paragraph correctly but cannot explain the main idea. The teacher has asked the paraprofessional to help the student during small-group practice.\nWhich strategy would be most appropriate?",
+      "choices": {
+        "A": "Ask the student to identify what most of the sentences are about",
+        "B": "Give the student a harder paragraph immediately",
+        "C": "Tell the student the answer without discussing the text",
+        "D": "Ask the student to copy the paragraph three times"
+      },
+      "correct": "A",
+      "correctAnswer": "Ask the student to identify what most of the sentences are about",
+      "explanation": "Looking for what most sentences are about helps a student determine the main idea."
+    },
+    {
+      "id": "PARAPRO1-025",
+      "itemType": "mcq_single",
+      "type": "mcq",
+      "section": "full",
+      "category": "Reading",
+      "skill": "Supporting comprehension of informational text",
+      "prompt": "A student is reading a short article with the heading “How Weather Affects Recess Plans.” The student is unsure what the article will be mostly about.\nWhich prompt would best help the student use the heading?",
+      "choices": {
+        "A": "“What do you think this article will explain based on the heading?”",
+        "B": "“How many letters are in the heading?”",
+        "C": "“Can you rewrite the heading in cursive?”",
+        "D": "“Which word in the heading is the shortest?”"
+      },
+      "correct": "A",
+      "correctAnswer": "“What do you think this article will explain based on the heading?”",
+      "explanation": "This prompt helps the student use the heading to predict the topic of the article."
+    },
+    {
+      "id": "PARAPRO1-026",
+      "itemType": "mcq_single",
+      "type": "mcq",
+      "section": "full",
+      "category": "Reading",
+      "skill": "Helping students summarize",
+      "prompt": "A student writes this summary of a passage about a class recycling project: “The class had bins. The bins were blue. I like blue bins.”\nWhich feedback would best help the student improve the summary?",
+      "choices": {
+        "A": "“Add every detail from the passage so the summary is longer.”",
+        "B": "“Focus on the most important idea and leave out personal opinions.”",
+        "C": "“Change the topic to something more interesting.”",
+        "D": "“Use only words that are shorter than five letters.”"
+      },
+      "correct": "B",
+      "correctAnswer": "“Focus on the most important idea and leave out personal opinions.”",
+      "explanation": "A summary should include the central idea of the passage, not unrelated personal opinions."
+    },
+    {
+      "id": "PARAPRO1-027",
+      "itemType": "mcq_single",
+      "type": "mcq",
+      "section": "full",
+      "category": "Reading",
+      "skill": "Distinguishing fact from opinion",
+      "prompt": "During reading practice, a student identifies the sentence “The new playground opened on Monday” as an opinion.\nWhat should the paraprofessional say to support understanding?",
+      "choices": {
+        "A": "“That sentence can be checked, so it is a fact.”",
+        "B": "“That sentence is an opinion because it includes a day of the week.”",
+        "C": "“All sentences about school are opinions.”",
+        "D": "“A fact always tells how someone feels.”"
+      },
+      "correct": "A",
+      "correctAnswer": "“That sentence can be checked, so it is a fact.”",
+      "explanation": "Whether the playground opened on Monday can be verified, which makes the sentence a fact."
+    },
+    {
+      "id": "PARAPRO1-028",
+      "itemType": "mcq_single",
+      "type": "mcq",
+      "section": "full",
+      "category": "Reading",
+      "skill": "Supporting rereading for evidence",
+      "prompt": "A student answers a question about a passage but cannot explain why the answer is correct. The teacher has directed students to support answers with text evidence.\nWhat should the paraprofessional encourage the student to do?",
+      "choices": {
+        "A": "Choose a different answer without looking back",
+        "B": "Reread the passage and point to the sentence that supports the answer",
+        "C": "Ask another student to give the answer",
+        "D": "Erase the answer and leave the question blank"
+      },
+      "correct": "B",
+      "correctAnswer": "Reread the passage and point to the sentence that supports the answer",
+      "explanation": "Rereading and pointing to supporting text helps the student connect the answer to evidence."
+    },
+    {
+      "id": "PARAPRO1-029",
+      "itemType": "mcq_single",
+      "type": "mcq",
+      "section": "full",
+      "category": "Reading",
+      "skill": "Supporting vocabulary development",
+      "prompt": "A student reads, “The coach gave a brief explanation before practice began.” The student thinks brief means “angry.”\nWhich response would best help the student check the meaning?",
+      "choices": {
+        "A": "“Look at the rest of the sentence. Would an explanation before practice more likely be short or angry?”",
+        "B": "“Always guess the first meaning that comes to mind.”",
+        "C": "“Skip every sentence with an unknown word.”",
+        "D": "“Brief is not important, so do not think about it.”"
+      },
+      "correct": "A",
+      "correctAnswer": "“Look at the rest of the sentence. Would an explanation before practice more likely be short or angry?”",
+      "explanation": "This response guides the student to use context to choose the meaning that makes sense."
+    },
+    {
+      "id": "PARAPRO1-030",
+      "itemType": "mcq_single",
+      "type": "mcq",
+      "section": "full",
+      "category": "Reading",
+      "skill": "Supporting reading-group discussion",
+      "prompt": "A paraprofessional is assisting a teacher during a small reading-group discussion. One student gives an answer but does not refer to the passage.\nWhich question would best encourage the student to connect the answer to the text?",
+      "choices": {
+        "A": "“Can you show us where the passage gives that information?”",
+        "B": "“Do you want to stop reading now?”",
+        "C": "“Why did you choose that seat today?”",
+        "D": "“Can you answer without looking at the page?”"
+      },
+      "correct": "A",
+      "correctAnswer": "“Can you show us where the passage gives that information?”",
+      "explanation": "This question encourages the student to support an answer by referring directly to the text."
+    },
+    {
+      "id": "PARAPRO1-031",
+      "itemType": "mcq_single",
+      "type": "mcq",
+      "section": "full",
+      "category": "Mathematics",
+      "skill": "Whole-number multiplication",
+      "prompt": "A teacher has 7 boxes of pencils. Each box contains 12 pencils. How many pencils are there in all?",
+      "choices": {
+        "A": "72",
+        "B": "84",
+        "C": "91",
+        "D": "96"
+      },
+      "correct": "B",
+      "correctAnswer": "84",
+      "explanation": "There are 7 boxes with 12 pencils in each box, so 7 × 12 = 84 pencils."
+    },
+    {
+      "id": "PARAPRO1-032",
+      "itemType": "mcq_single",
+      "type": "mcq",
+      "section": "full",
+      "category": "Mathematics",
+      "skill": "Place value",
+      "prompt": "In the number 38,472, what is the value of the digit 4?",
+      "choices": {
+        "A": "4",
+        "B": "40",
+        "C": "400",
+        "D": "4,000"
+      },
+      "correct": "C",
+      "correctAnswer": "400",
+      "explanation": "In 38,472, the digit 4 is in the hundreds place, so its value is 400."
+    },
+    {
+      "id": "PARAPRO1-033",
+      "itemType": "mcq_single",
+      "type": "mcq",
+      "section": "full",
+      "category": "Mathematics",
+      "skill": "Adding fractions",
+      "prompt": "What is 3/8 + 1/4?",
+      "choices": {
+        "A": "4/12",
+        "B": "5/8",
+        "C": "4/8",
+        "D": "1/2"
+      },
+      "correct": "B",
+      "correctAnswer": "5/8",
+      "explanation": "Rewrite 1/4 as 2/8. Then 3/8 + 2/8 = 5/8."
+    },
+    {
+      "id": "PARAPRO1-034",
+      "itemType": "mcq_single",
+      "type": "mcq",
+      "section": "full",
+      "category": "Mathematics",
+      "skill": "Comparing decimals",
+      "prompt": "Which decimal is greatest?",
+      "choices": {
+        "A": "0.7",
+        "B": "0.65",
+        "C": "0.708",
+        "D": "0.69"
+      },
+      "correct": "C",
+      "correctAnswer": "0.708",
+      "explanation": "Comparing to thousandths gives 0.700, 0.650, 0.708, and 0.690. The greatest is 0.708."
+    },
+    {
+      "id": "PARAPRO1-035",
+      "itemType": "mcq_single",
+      "type": "mcq",
+      "section": "full",
+      "category": "Mathematics",
+      "skill": "Finding a percent of a number",
+      "prompt": "What is 20% of 45?",
+      "choices": {
+        "A": "6",
+        "B": "9",
+        "C": "18",
+        "D": "25"
+      },
+      "correct": "B",
+      "correctAnswer": "9",
+      "explanation": "20% means 1/5. One-fifth of 45 is 45 ÷ 5 = 9."
+    },
+    {
+      "id": "PARAPRO1-036",
+      "itemType": "mcq_single",
+      "type": "mcq",
+      "section": "full",
+      "category": "Mathematics",
+      "skill": "Order of operations",
+      "prompt": "What is the value of 18 − 6 ÷ 3 × 2?",
+      "choices": {
+        "A": "8",
+        "B": "10",
+        "C": "14",
+        "D": "16"
+      },
+      "correct": "C",
+      "correctAnswer": "14",
+      "explanation": "Do division and multiplication first from left to right: 6 ÷ 3 × 2 = 4. Then 18 − 4 = 14."
+    },
+    {
+      "id": "PARAPRO1-037",
+      "itemType": "mcq_single",
+      "type": "mcq",
+      "section": "full",
+      "category": "Mathematics",
+      "skill": "Solving simple equations",
+      "prompt": "Solve for x: x + 15 = 42",
+      "choices": {
+        "A": "27",
+        "B": "37",
+        "C": "57",
+        "D": "630"
+      },
+      "correct": "A",
+      "correctAnswer": "27",
+      "explanation": "Subtract 15 from both sides: x = 42 − 15 = 27."
+    },
+    {
+      "id": "PARAPRO1-038",
+      "itemType": "mcq_single",
+      "type": "mcq",
+      "section": "full",
+      "category": "Mathematics",
+      "skill": "Ratios and proportions",
+      "prompt": "If 3 notebooks cost $6, what is the cost of 5 notebooks at the same price per notebook?",
+      "choices": {
+        "A": "$8",
+        "B": "$9",
+        "C": "$11",
+        "D": "$10"
+      },
+      "correct": "D",
+      "correctAnswer": "$10",
+      "explanation": "If 3 notebooks cost $6, each notebook costs $2. Five notebooks cost 5 × $2 = $10."
+    },
+    {
+      "id": "PARAPRO1-039",
+      "itemType": "mcq_single",
+      "type": "mcq",
+      "section": "full",
+      "category": "Mathematics",
+      "skill": "Perimeter",
+      "prompt": "A rectangular rug is 9 ft long and 4 ft wide. What is its perimeter?",
+      "choices": {
+        "A": "13 ft",
+        "B": "18 ft",
+        "C": "26 ft",
+        "D": "36 ft"
+      },
+      "correct": "C",
+      "correctAnswer": "26 ft",
+      "explanation": "Perimeter is the distance around the rectangle: 9 + 4 + 9 + 4 = 26 ft."
+    },
+    {
+      "id": "PARAPRO1-040",
+      "itemType": "mcq_single",
+      "type": "mcq",
+      "section": "full",
+      "category": "Mathematics",
+      "skill": "Area",
+      "prompt": "A bulletin board is 5 ft wide and 3 ft tall. What is its area?",
+      "choices": {
+        "A": "15 square ft",
+        "B": "16 square ft",
+        "C": "8 square ft",
+        "D": "30 square ft"
+      },
+      "correct": "A",
+      "correctAnswer": "15 square ft",
+      "explanation": "Area of a rectangle is length × width. So 5 × 3 = 15 square ft."
+    },
+    {
+      "id": "PARAPRO1-041",
+      "itemType": "mcq_single",
+      "type": "mcq",
+      "section": "full",
+      "category": "Mathematics",
+      "skill": "Measurement conversion",
+      "prompt": "How many inches are equal to 3 ft?",
+      "choices": {
+        "A": "24 in.",
+        "B": "36 in.",
+        "C": "30 in.",
+        "D": "48 in."
+      },
+      "correct": "B",
+      "correctAnswer": "36 in.",
+      "explanation": "Each foot has 12 inches. Therefore, 3 ft = 3 × 12 = 36 in."
+    },
+    {
+      "id": "PARAPRO1-042",
+      "itemType": "mcq_single",
+      "type": "mcq",
+      "section": "full",
+      "category": "Mathematics",
+      "skill": "Elapsed time",
+      "prompt": "A math lesson begins at 9:15 a.m. and ends at 10:05 a.m. How long is the lesson?",
+      "choices": {
+        "A": "40 min",
+        "B": "45 min",
+        "C": "50 min",
+        "D": "55 min"
+      },
+      "correct": "C",
+      "correctAnswer": "50 min",
+      "explanation": "From 9:15 to 10:00 is 45 minutes, and from 10:00 to 10:05 is 5 more minutes. The total is 50 minutes."
+    },
+    {
+      "id": "PARAPRO1-043",
+      "itemType": "mcq_single",
+      "type": "mcq",
+      "section": "full",
+      "category": "Mathematics",
+      "skill": "Money",
+      "prompt": "A student buys a folder for $2.35 and an eraser for $1.20. If the student pays with a $5 bill, how much change should the student receive?",
+      "choices": {
+        "A": "$0.55",
+        "B": "$1.35",
+        "C": "$1.55",
+        "D": "$1.45"
+      },
+      "correct": "D",
+      "correctAnswer": "$1.45",
+      "explanation": "The total cost is $2.35 + $1.20 = $3.55. The change is $5.00 − $3.55 = $1.45."
+    },
+    {
+      "id": "PARAPRO1-044",
+      "itemType": "mcq_single",
+      "type": "mcq",
+      "section": "full",
+      "category": "Mathematics",
+      "skill": "Estimation",
+      "prompt": "Which is the best estimate for 198 + 403?",
+      "choices": {
+        "A": "500",
+        "B": "550",
+        "C": "600",
+        "D": "700"
+      },
+      "correct": "C",
+      "correctAnswer": "600",
+      "explanation": "Round 198 to 200 and 403 to 400. Then 200 + 400 = 600."
+    },
+    {
+      "id": "PARAPRO1-045",
+      "itemType": "mcq_single",
+      "type": "mcq",
+      "section": "full",
+      "category": "Mathematics",
+      "skill": "Number patterns",
+      "prompt": "What is the next number in the pattern?\n4, 8, 16, 32, ___",
+      "choices": {
+        "A": "48",
+        "B": "64",
+        "C": "60",
+        "D": "72"
+      },
+      "correct": "B",
+      "correctAnswer": "64",
+      "explanation": "Each number is multiplied by 2. So 32 × 2 = 64."
+    },
+    {
+      "id": "PARAPRO1-046",
+      "itemType": "mcq_single",
+      "type": "mcq",
+      "section": "full",
+      "category": "Mathematics",
+      "skill": "Division with remainders",
+      "prompt": "A class has 29 students. The students are placed into groups of 4. How many students will be left over after making as many full groups of 4 as possible?",
+      "choices": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      },
+      "correct": "A",
+      "correctAnswer": "1",
+      "explanation": "29 ÷ 4 = 7 remainder 1 because 7 × 4 = 28 and 29 − 28 = 1."
+    },
+    {
+      "id": "PARAPRO1-047",
+      "itemType": "mcq_single",
+      "type": "mcq",
+      "section": "full",
+      "category": "Mathematics",
+      "skill": "Subtracting decimals",
+      "prompt": "What is 6.4 − 2.75?",
+      "choices": {
+        "A": "3.65",
+        "B": "4.35",
+        "C": "3.75",
+        "D": "4.25"
+      },
+      "correct": "A",
+      "correctAnswer": "3.65",
+      "explanation": "Line up the decimals: 6.40 − 2.75 = 3.65."
+    },
+    {
+      "id": "PARAPRO1-048",
+      "itemType": "mcq_single",
+      "type": "mcq",
+      "section": "full",
+      "category": "Mathematics",
+      "skill": "Equivalent fractions",
+      "prompt": "Which fraction is equivalent to 2/3?",
+      "choices": {
+        "A": "3/4",
+        "B": "4/9",
+        "C": "6/9",
+        "D": "8/10"
+      },
+      "correct": "C",
+      "correctAnswer": "6/9",
+      "explanation": "Multiplying the numerator and denominator of 2/3 by 3 gives 6/9."
+    },
+    {
+      "id": "PARAPRO1-049",
+      "itemType": "mcq_single",
+      "type": "mcq",
+      "section": "full",
+      "category": "Mathematics",
+      "skill": "Interpreting data",
+      "prompt": "A class voted for a game to play during recess.\nGame: Kickball, Tag, Jump Rope, Soccer\nVotes: 8, 5, 3, 10\nHow many more students voted for soccer than for tag?",
+      "choices": {
+        "A": "3",
+        "B": "4",
+        "C": "5",
+        "D": "6"
+      },
+      "correct": "C",
+      "correctAnswer": "5",
+      "explanation": "Soccer received 10 votes and tag received 5 votes. The difference is 10 − 5 = 5."
+    },
+    {
+      "id": "PARAPRO1-050",
+      "itemType": "mcq_single",
+      "type": "mcq",
+      "section": "full",
+      "category": "Mathematics",
+      "skill": "Multi-step arithmetic",
+      "prompt": "A teacher has 36 stickers. She gives 4 stickers to each of 6 students. How many stickers does she have left?",
+      "choices": {
+        "A": "10",
+        "B": "12",
+        "C": "14",
+        "D": "18"
+      },
+      "correct": "B",
+      "correctAnswer": "12",
+      "explanation": "The teacher gives away 4 × 6 = 24 stickers. She has 36 − 24 = 12 stickers left."
+    },
+    {
+      "id": "PARAPRO1-051",
+      "itemType": "mcq_single",
+      "type": "mcq",
+      "section": "full",
+      "category": "Mathematics",
+      "skill": "Classroom application: place value support",
+      "prompt": "A student writes 506 as “five hundred sixty.” Which explanation would best help the student understand the error?",
+      "choices": {
+        "A": "“The 0 means there are no tens, so 506 is five hundred six.”",
+        "B": "“The 0 should be ignored because it has no value.”",
+        "C": "“The 6 is in the tens place, so the number is five hundred sixty.”",
+        "D": "“The number should be rounded to 510.”"
+      },
+      "correct": "A",
+      "correctAnswer": "“The 0 means there are no tens, so 506 is five hundred six.”",
+      "explanation": "In 506, the 0 is in the tens place, so there are no tens. The number is read as five hundred six."
+    },
+    {
+      "id": "PARAPRO1-052",
+      "itemType": "mcq_single",
+      "type": "mcq",
+      "section": "full",
+      "category": "Mathematics",
+      "skill": "Classroom application: fraction error analysis",
+      "prompt": "A student says that 1/3 + 1/3 = 2/6. What is the best way to explain the mistake?",
+      "choices": {
+        "A": "“When denominators are the same, add only the numerators.”",
+        "B": "“Fractions can never be added if the denominators are the same.”",
+        "C": "“The answer should be 1/6 because the numerators stay the same.”",
+        "D": "“The denominator should be added before the numerator.”"
+      },
+      "correct": "A",
+      "correctAnswer": "“When denominators are the same, add only the numerators.”",
+      "explanation": "For 1/3 + 1/3, the denominator stays 3 and the numerators are added: 1 + 1 = 2, so the answer is 2/3."
+    },
+    {
+      "id": "PARAPRO1-053",
+      "itemType": "mcq_single",
+      "type": "mcq",
+      "section": "full",
+      "category": "Mathematics",
+      "skill": "Classroom application: choosing a representation",
+      "prompt": "A paraprofessional is helping students compare 0.4 and 0.35. Which representation would be most helpful?",
+      "choices": {
+        "A": "A hundreds chart or base-ten grid showing tenths and hundredths",
+        "B": "A clock showing hours and minutes",
+        "C": "A ruler marked only in whole inches",
+        "D": "A multiplication table for whole numbers"
+      },
+      "correct": "A",
+      "correctAnswer": "A hundreds chart or base-ten grid showing tenths and hundredths",
+      "explanation": "A hundreds chart or base-ten grid can show 0.40 and 0.35 clearly, making it easier to compare the decimals."
+    },
+    {
+      "id": "PARAPRO1-054",
+      "itemType": "mcq_single",
+      "type": "mcq",
+      "section": "full",
+      "category": "Mathematics",
+      "skill": "Classroom application: checking reasonableness",
+      "prompt": "A student estimates that 49 × 6 is about 3,000. Which response best supports the student in checking reasonableness?",
+      "choices": {
+        "A": "“Round 49 to 50, then calculate 50 × 6 to get about 300.”",
+        "B": "“Round 49 to 100, then calculate 100 × 6 to get 600.”",
+        "C": "“Add 49 + 6 to check the multiplication.”",
+        "D": "“Divide 49 by 6 because multiplication estimates are not useful.”"
+      },
+      "correct": "A",
+      "correctAnswer": "“Round 49 to 50, then calculate 50 × 6 to get about 300.”",
+      "explanation": "Since 49 is close to 50, 49 × 6 should be close to 50 × 6 = 300, not 3,000."
+    },
+    {
+      "id": "PARAPRO1-055",
+      "itemType": "mcq_single",
+      "type": "mcq",
+      "section": "full",
+      "category": "Mathematics",
+      "skill": "Classroom application: interpreting a student solution",
+      "prompt": "A student solves 24 ÷ 6 by drawing 6 equal groups and placing 4 dots in each group. Which statement best describes the student’s work?",
+      "choices": {
+        "A": "The student found 24 × 6.",
+        "B": "The student correctly showed that 24 ÷ 6 = 4.",
+        "C": "The student should have drawn 24 groups of 6.",
+        "D": "The student showed 24 − 6 = 18."
+      },
+      "correct": "B",
+      "correctAnswer": "The student correctly showed that 24 ÷ 6 = 4.",
+      "explanation": "Dividing 24 into 6 equal groups gives 4 in each group, so 24 ÷ 6 = 4."
+    },
+    {
+      "id": "PARAPRO1-056",
+      "itemType": "mcq_single",
+      "type": "mcq",
+      "section": "full",
+      "category": "Mathematics",
+      "skill": "Classroom application: measurement support",
+      "prompt": "Students are measuring strips of paper to the nearest inch. One strip is a little more than 7 in. long but less than 8 in. long. Which measurement is most reasonable to record to the nearest inch?",
+      "choices": {
+        "A": "6 in.",
+        "B": "7 in.",
+        "C": "8 in.",
+        "D": "15 in."
+      },
+      "correct": "C",
+      "correctAnswer": "8 in.",
+      "explanation": "A length a little more than 7 inches but less than 8 inches is closer to 8 inches if it is past the halfway point between 7 and 8."
+    },
+    {
+      "id": "PARAPRO1-057",
+      "itemType": "mcq_single",
+      "type": "mcq",
+      "section": "full",
+      "category": "Mathematics",
+      "skill": "Classroom application: word-problem strategy",
+      "prompt": "A student is solving this problem: “There are 5 tables with 6 students at each table. How many students are there in all?” Which equation matches the problem?",
+      "choices": {
+        "A": "5 + 6 = 11",
+        "B": "6 − 5 = 1",
+        "C": "5 × 6 = 30",
+        "D": "30 ÷ 5 = 6"
+      },
+      "correct": "C",
+      "correctAnswer": "5 × 6 = 30",
+      "explanation": "There are 5 groups with 6 students in each group, so multiplication is used: 5 × 6 = 30."
+    },
+    {
+      "id": "PARAPRO1-058",
+      "itemType": "mcq_single",
+      "type": "mcq",
+      "section": "full",
+      "category": "Mathematics",
+      "skill": "Classroom application: money reasoning",
+      "prompt": "A student says that 3 quarters and 2 dimes are worth 32¢. Which statement best identifies the error?",
+      "choices": {
+        "A": "The student counted each quarter as 25¢ and each dime as 10¢.",
+        "B": "The student likely counted the number of coins instead of the total value.",
+        "C": "The student should subtract the dimes from the quarters.",
+        "D": "The student should count each dime as 25¢."
+      },
+      "correct": "B",
+      "correctAnswer": "The student likely counted the number of coins instead of the total value.",
+      "explanation": "Three quarters are 75¢ and two dimes are 20¢, for a total of 95¢. The answer 32¢ suggests the student did not correctly count the coin values."
+    },
+    {
+      "id": "PARAPRO1-059",
+      "itemType": "mcq_single",
+      "type": "mcq",
+      "section": "full",
+      "category": "Mathematics",
+      "skill": "Classroom application: data interpretation",
+      "prompt": "A paraprofessional is helping a small group read this table.\nColor: Red, Blue, Green, Yellow\nNumber of students: 4, 7, 6, 3\nWhich question can be answered directly from the table?",
+      "choices": {
+        "A": "Which color was liked by the most students?",
+        "B": "Why did students choose blue?",
+        "C": "Which color will students choose next week?",
+        "D": "How many students were absent from class?"
+      },
+      "correct": "A",
+      "correctAnswer": "Which color was liked by the most students?",
+      "explanation": "The table shows the number of students for each color, so it can be used to identify the greatest number."
+    },
+    {
+      "id": "PARAPRO1-060",
+      "itemType": "mcq_single",
+      "type": "mcq",
+      "section": "full",
+      "category": "Mathematics",
+      "skill": "Classroom application: area versus perimeter",
+      "prompt": "A student finds the area of a 6 ft by 2 ft rectangular mat by adding 6 + 2 + 6 + 2 = 16. What should the student be reminded to do?",
+      "choices": {
+        "A": "Add all side lengths to find area.",
+        "B": "Multiply length by width to find area.",
+        "C": "Divide the longer side by the shorter side.",
+        "D": "Round both side lengths before calculating."
+      },
+      "correct": "B",
+      "correctAnswer": "Multiply length by width to find area.",
+      "explanation": "The student found the perimeter by adding all side lengths. To find area, multiply length by width: 6 × 2 = 12 square ft."
+    },
+    {
+      "id": "PARAPRO1-061",
+      "itemType": "mcq_single",
+      "type": "mcq",
+      "section": "full",
+      "category": "Writing",
+      "skill": "Subject-Verb Agreement",
+      "prompt": "Choose the sentence that is written correctly.",
+      "choices": {
+        "A": "The list of classroom supplies are on the teacher’s desk.",
+        "B": "The list of classroom supplies is on the teacher’s desk.",
+        "C": "The list of classroom supplies were on the teacher’s desk.",
+        "D": "The list of classroom supplies have been on the teacher’s desk."
+      },
+      "correct": "B",
+      "correctAnswer": "The list of classroom supplies is on the teacher’s desk.",
+      "explanation": "The subject is “list,” which is singular, so it needs the singular verb “is.”"
+    },
+    {
+      "id": "PARAPRO1-062",
+      "itemType": "mcq_single",
+      "type": "mcq",
+      "section": "full",
+      "category": "Writing",
+      "skill": "Comma Use",
+      "prompt": "Choose the best correction for the sentence.\nAfter the morning announcements the class began its reading lesson.",
+      "choices": {
+        "A": "After the morning announcements the class, began its reading lesson.",
+        "B": "After the morning announcements, the class began its reading lesson.",
+        "C": "After, the morning announcements the class began its reading lesson.",
+        "D": "After the morning announcements the class began, its reading lesson."
+      },
+      "correct": "B",
+      "correctAnswer": "After the morning announcements, the class began its reading lesson.",
+      "explanation": "A comma should follow the introductory phrase “After the morning announcements.”"
+    },
+    {
+      "id": "PARAPRO1-063",
+      "itemType": "mcq_single",
+      "type": "mcq",
+      "section": "full",
+      "category": "Writing",
+      "skill": "Pronoun Use",
+      "prompt": "Choose the best correction for the sentence.\nEach student should bring their notebook to the writing workshop.",
+      "choices": {
+        "A": "Each student should bring his or her notebook to the writing workshop.",
+        "B": "Each student should bring them notebook to the writing workshop.",
+        "C": "Each student should bring they notebook to the writing workshop.",
+        "D": "Each student should bring your notebook to the writing workshop."
+      },
+      "correct": "A",
+      "correctAnswer": "Each student should bring his or her notebook to the writing workshop.",
+      "explanation": "“Each student” is singular, so the pronoun should also be singular."
+    },
+    {
+      "id": "PARAPRO1-064",
+      "itemType": "mcq_single",
+      "type": "mcq",
+      "section": "full",
+      "category": "Writing",
+      "skill": "Sentence Fragments",
+      "prompt": "Which option is a complete sentence?",
+      "choices": {
+        "A": "Because the class finished the project early.",
+        "B": "When the students entered the library.",
+        "C": "The teacher displayed the finished posters in the hallway.",
+        "D": "After reading the directions carefully."
+      },
+      "correct": "C",
+      "correctAnswer": "The teacher displayed the finished posters in the hallway.",
+      "explanation": "This is a complete sentence because it has a subject and a predicate and expresses a complete thought."
+    },
+    {
+      "id": "PARAPRO1-065",
+      "itemType": "mcq_single",
+      "type": "mcq",
+      "section": "full",
+      "category": "Writing",
+      "skill": "Run-On Sentences",
+      "prompt": "Choose the best correction for the sentence.\nThe students revised their paragraphs they added more details.",
+      "choices": {
+        "A": "The students revised their paragraphs, they added more details.",
+        "B": "The students revised their paragraphs and they added more details.",
+        "C": "The students revised their paragraphs; they added more details.",
+        "D": "The students revised their paragraphs they, added more details."
+      },
+      "correct": "C",
+      "correctAnswer": "The students revised their paragraphs; they added more details.",
+      "explanation": "A semicolon can correctly join two closely related independent clauses."
+    },
+    {
+      "id": "PARAPRO1-066",
+      "itemType": "mcq_single",
+      "type": "mcq",
+      "section": "full",
+      "category": "Writing",
+      "skill": "Apostrophes",
+      "prompt": "Choose the sentence that uses an apostrophe correctly.",
+      "choices": {
+        "A": "The teachers lounge is next to the office.",
+        "B": "The teacher’s lounge is next to the office.",
+        "C": "The teachers’ lounge is next to the office.",
+        "D": "The teacher lounge’s is next to the office."
+      },
+      "correct": "C",
+      "correctAnswer": "The teachers’ lounge is next to the office.",
+      "explanation": "The lounge belongs to more than one teacher, so the apostrophe comes after the plural noun “teachers.”"
+    },
+    {
+      "id": "PARAPRO1-067",
+      "itemType": "mcq_single",
+      "type": "mcq",
+      "section": "full",
+      "category": "Writing",
+      "skill": "Verb Tense Consistency",
+      "prompt": "Choose the best correction for the sentence.\nYesterday, the students drafted their reports and submit them to the teacher.",
+      "choices": {
+        "A": "Yesterday, the students draft their reports and submitted them to the teacher.",
+        "B": "Yesterday, the students drafted their reports and submitted them to the teacher.",
+        "C": "Yesterday, the students will draft their reports and submit them to the teacher.",
+        "D": "Yesterday, the students are drafting their reports and submit them to the teacher."
+      },
+      "correct": "B",
+      "correctAnswer": "Yesterday, the students drafted their reports and submitted them to the teacher.",
+      "explanation": "The word “Yesterday” signals past tense, so both verbs should be in the past tense."
+    },
+    {
+      "id": "PARAPRO1-068",
+      "itemType": "mcq_single",
+      "type": "mcq",
+      "section": "full",
+      "category": "Writing",
+      "skill": "Modifiers",
+      "prompt": "Choose the clearest correction for the sentence.\nWalking into the classroom, the homework folders were on the table.",
+      "choices": {
+        "A": "Walking into the classroom, the homework folders were on the table.",
+        "B": "The homework folders walking into the classroom were on the table.",
+        "C": "Walking into the classroom, I saw the homework folders on the table.",
+        "D": "The homework folders were walking into the classroom on the table."
+      },
+      "correct": "C",
+      "correctAnswer": "Walking into the classroom, I saw the homework folders on the table.",
+      "explanation": "The opening phrase should clearly describe the person who was walking into the classroom."
+    },
+    {
+      "id": "PARAPRO1-069",
+      "itemType": "mcq_single",
+      "type": "mcq",
+      "section": "full",
+      "category": "Writing",
+      "skill": "Word Choice",
+      "prompt": "Choose the word that best completes the sentence.\nThe student’s careful planning had a positive _____ on the final presentation.",
+      "choices": {
+        "A": "effect",
+        "B": "affect",
+        "C": "accept",
+        "D": "except"
+      },
+      "correct": "A",
+      "correctAnswer": "effect",
+      "explanation": "“Effect” is a noun meaning result. The sentence refers to the result of careful planning."
+    },
+    {
+      "id": "PARAPRO1-070",
+      "itemType": "mcq_single",
+      "type": "mcq",
+      "section": "full",
+      "category": "Writing",
+      "skill": "Sentence Combining",
+      "prompt": "Choose the best way to combine the two sentences.\nThe class planted seeds. The class recorded the plants’ growth each week.",
+      "choices": {
+        "A": "The class planted seeds, the class recorded the plants’ growth each week.",
+        "B": "The class planted seeds and recorded the plants’ growth each week.",
+        "C": "The class planted seeds recorded the plants’ growth each week.",
+        "D": "The class planted seeds because recorded the plants’ growth each week."
+      },
+      "correct": "B",
+      "correctAnswer": "The class planted seeds and recorded the plants’ growth each week.",
+      "explanation": "This option combines the two related actions clearly without creating a run-on sentence."
+    },
+    {
+      "id": "PARAPRO1-071",
+      "itemType": "mcq_single",
+      "type": "mcq",
+      "section": "full",
+      "category": "Writing",
+      "skill": "Transitions",
+      "prompt": "Choose the best transition to complete the sentence.\nThe first draft included many useful facts. _____, the writer needed to organize the facts into clearer paragraphs.",
+      "choices": {
+        "A": "However",
+        "B": "For example",
+        "C": "Meanwhile",
+        "D": "Therefore"
+      },
+      "correct": "A",
+      "correctAnswer": "However",
+      "explanation": "“However” shows contrast between having useful facts and needing better organization."
+    },
+    {
+      "id": "PARAPRO1-072",
+      "itemType": "mcq_single",
+      "type": "mcq",
+      "section": "full",
+      "category": "Writing",
+      "skill": "Topic Sentences",
+      "prompt": "Choose the best topic sentence for a paragraph about ways students can prepare for a spelling quiz.",
+      "choices": {
+        "A": "Spelling words can sometimes be long.",
+        "B": "Students can use several strategies to prepare for a spelling quiz.",
+        "C": "The quiz will be given on Friday morning.",
+        "D": "Some students keep pencils in their desks."
+      },
+      "correct": "B",
+      "correctAnswer": "Students can use several strategies to prepare for a spelling quiz.",
+      "explanation": "This topic sentence clearly introduces a paragraph about ways to prepare for a spelling quiz."
+    },
+    {
+      "id": "PARAPRO1-073",
+      "itemType": "mcq_single",
+      "type": "mcq",
+      "section": "full",
+      "category": "Writing",
+      "skill": "Supporting Details",
+      "prompt": "Which sentence best supports this topic sentence?\nA classroom garden helps students learn responsibility.",
+      "choices": {
+        "A": "The garden is located near the playground.",
+        "B": "Students take turns watering the plants and checking the soil.",
+        "C": "Some gardens have flowers that bloom in spring.",
+        "D": "The school building has many classrooms."
+      },
+      "correct": "B",
+      "correctAnswer": "Students take turns watering the plants and checking the soil.",
+      "explanation": "This detail directly supports the idea that a classroom garden teaches responsibility."
+    },
+    {
+      "id": "PARAPRO1-074",
+      "itemType": "mcq_single",
+      "type": "mcq",
+      "section": "full",
+      "category": "Writing",
+      "skill": "Paragraph Organization",
+      "prompt": "Read the paragraph.\nOur class prepared for the school open house. Students arranged their science projects on the tables. Several students practiced explaining their displays to visitors. The cafeteria serves lunch every day at noon. We also made welcome signs for families.\nWhich sentence does not belong in the paragraph?",
+      "choices": {
+        "A": "Our class prepared for the school open house.",
+        "B": "Students arranged their science projects on the tables.",
+        "C": "The cafeteria serves lunch every day at noon.",
+        "D": "We also made welcome signs for families."
+      },
+      "correct": "C",
+      "correctAnswer": "The cafeteria serves lunch every day at noon.",
+      "explanation": "This sentence does not relate to preparing for the school open house."
+    },
+    {
+      "id": "PARAPRO1-075",
+      "itemType": "mcq_single",
+      "type": "mcq",
+      "section": "full",
+      "category": "Writing",
+      "skill": "Pronoun Case",
+      "prompt": "Choose the sentence that is written correctly.",
+      "choices": {
+        "A": "Me and Jordan helped organize the books.",
+        "B": "Jordan and me helped organize the books.",
+        "C": "Jordan and I helped organize the books.",
+        "D": "I and Jordan helped organize the books."
+      },
+      "correct": "C",
+      "correctAnswer": "Jordan and I helped organize the books.",
+      "explanation": "“Jordan and I” is the correct subject form of the pronoun."
+    },
+    {
+      "id": "PARAPRO1-076",
+      "itemType": "mcq_single",
+      "type": "mcq",
+      "section": "full",
+      "category": "Writing",
+      "skill": "Capitalization",
+      "prompt": "Choose the sentence with correct capitalization.",
+      "choices": {
+        "A": "The students read a poem by Maya Angelou on Monday.",
+        "B": "The students read a Poem by Maya Angelou on monday.",
+        "C": "The Students read a poem by Maya angelou on Monday.",
+        "D": "The students read a poem by maya Angelou on monday."
+      },
+      "correct": "A",
+      "correctAnswer": "The students read a poem by Maya Angelou on Monday.",
+      "explanation": "Proper nouns, including a person’s name and a day of the week, should be capitalized."
+    },
+    {
+      "id": "PARAPRO1-077",
+      "itemType": "mcq_single",
+      "type": "mcq",
+      "section": "full",
+      "category": "Writing",
+      "skill": "Comma Use",
+      "prompt": "Choose the sentence that uses a comma correctly.",
+      "choices": {
+        "A": "The class finished the assignment, and the teacher collected the papers.",
+        "B": "The class finished, the assignment and the teacher collected the papers.",
+        "C": "The class finished the assignment and, the teacher collected the papers.",
+        "D": "The class, finished the assignment and the teacher collected the papers."
+      },
+      "correct": "A",
+      "correctAnswer": "The class finished the assignment, and the teacher collected the papers.",
+      "explanation": "A comma is used before the coordinating conjunction “and” when joining two independent clauses."
+    },
+    {
+      "id": "PARAPRO1-078",
+      "itemType": "mcq_single",
+      "type": "mcq",
+      "section": "full",
+      "category": "Writing",
+      "skill": "Parallel Structure",
+      "prompt": "Choose the best correction for the sentence.\nDuring the project, students learned to research, outlining, and revise.",
+      "choices": {
+        "A": "During the project, students learned to research, outlining, and revise.",
+        "B": "During the project, students learned researching, to outline, and revise.",
+        "C": "During the project, students learned to research, to outline, and to revise.",
+        "D": "During the project, students learned research, outlining, and to revise."
+      },
+      "correct": "C",
+      "correctAnswer": "During the project, students learned to research, to outline, and to revise.",
+      "explanation": "Parallel structure keeps items in a series in the same grammatical form."
+    },
+    {
+      "id": "PARAPRO1-079",
+      "itemType": "mcq_single",
+      "type": "mcq",
+      "section": "full",
+      "category": "Writing",
+      "skill": "Clarity and Concision",
+      "prompt": "Choose the clearest and most concise revision.\nThe reason the student was late was because the bus arrived after the usual time.",
+      "choices": {
+        "A": "The reason the student was late was because the bus arrived after the usual time.",
+        "B": "The student was late because the bus arrived later than usual.",
+        "C": "Due to the fact that the bus was arriving late, the student was late.",
+        "D": "The student’s lateness occurred because of the bus being later than usual."
+      },
+      "correct": "B",
+      "correctAnswer": "The student was late because the bus arrived later than usual.",
+      "explanation": "This revision is clear and concise and avoids unnecessary wording."
+    },
+    {
+      "id": "PARAPRO1-080",
+      "itemType": "mcq_single",
+      "type": "mcq",
+      "section": "full",
+      "category": "Writing",
+      "skill": "Punctuation",
+      "prompt": "Choose the sentence that is punctuated correctly.",
+      "choices": {
+        "A": "The students brought three items: pencils, notebooks, and folders.",
+        "B": "The students brought three items pencils, notebooks, and folders.",
+        "C": "The students brought three items, pencils notebooks, and folders.",
+        "D": "The students brought: three items pencils, notebooks, and folders."
+      },
+      "correct": "A",
+      "correctAnswer": "The students brought three items: pencils, notebooks, and folders.",
+      "explanation": "A colon can introduce a list after a complete sentence."
+    },
+    {
+      "id": "PARAPRO1-081",
+      "itemType": "mcq_single",
+      "type": "mcq",
+      "section": "full",
+      "category": "Writing",
+      "skill": "Classroom Support: Sentence Fragments",
+      "prompt": "A student writes this sentence in a draft:\nBecause the playground was wet after the rain.\nUnder the teacher’s direction, which question should a paraprofessional ask to help the student revise the fragment?",
+      "choices": {
+        "A": "“Can you add what happened because the playground was wet?”",
+        "B": "“Can you make the sentence longer by adding three adjectives?”",
+        "C": "“Can you replace playground with a more difficult word?”",
+        "D": "“Can you remove the word because from every sentence?”"
+      },
+      "correct": "A",
+      "correctAnswer": "“Can you add what happened because the playground was wet?”",
+      "explanation": "This guiding question helps the student complete the thought without doing the writing for the student."
+    },
+    {
+      "id": "PARAPRO1-082",
+      "itemType": "mcq_single",
+      "type": "mcq",
+      "section": "full",
+      "category": "Writing",
+      "skill": "Classroom Support: Graphic Organizers",
+      "prompt": "A teacher asks students to write a paragraph explaining how to care for a class pet. A student has several ideas but does not know how to organize them. What is the best way for a paraprofessional to support the student?",
+      "choices": {
+        "A": "Write the paragraph for the student so it is organized correctly.",
+        "B": "Tell the student to start over with a different topic.",
+        "C": "Help the student place ideas into a graphic organizer with a topic, details, and conclusion.",
+        "D": "Grade the student’s paragraph before the teacher reviews it."
+      },
+      "correct": "C",
+      "correctAnswer": "Help the student place ideas into a graphic organizer with a topic, details, and conclusion.",
+      "explanation": "A graphic organizer helps the student organize ideas while keeping the student responsible for the writing."
+    },
+    {
+      "id": "PARAPRO1-083",
+      "itemType": "mcq_single",
+      "type": "mcq",
+      "section": "full",
+      "category": "Writing",
+      "skill": "Classroom Support: Proofreading",
+      "prompt": "A teacher asks a paraprofessional to help students proofread for end punctuation. Which action best matches that direction?",
+      "choices": {
+        "A": "Ask students to check whether each sentence ends with a period, question mark, or exclamation point.",
+        "B": "Tell students which grade each paragraph should receive.",
+        "C": "Rewrite each student’s sentences using more advanced vocabulary.",
+        "D": "Choose new topics for students who made punctuation errors."
+      },
+      "correct": "A",
+      "correctAnswer": "Ask students to check whether each sentence ends with a period, question mark, or exclamation point.",
+      "explanation": "This action directly supports the teacher’s direction to proofread for end punctuation."
+    },
+    {
+      "id": "PARAPRO1-084",
+      "itemType": "mcq_single",
+      "type": "mcq",
+      "section": "full",
+      "category": "Writing",
+      "skill": "Classroom Support: Supporting Details",
+      "prompt": "A student writes, “Recycling is helpful.” The teacher wants the student to add supporting details. Which prompt would best help the student?",
+      "choices": {
+        "A": "“Can you explain one way recycling helps the environment?”",
+        "B": "“Can you make your handwriting smaller?”",
+        "C": "“Can you erase the sentence and choose a new topic?”",
+        "D": "“Can you count how many letters are in the sentence?”"
+      },
+      "correct": "A",
+      "correctAnswer": "“Can you explain one way recycling helps the environment?”",
+      "explanation": "This prompt encourages the student to add a relevant supporting detail."
+    },
+    {
+      "id": "PARAPRO1-085",
+      "itemType": "mcq_single",
+      "type": "mcq",
+      "section": "full",
+      "category": "Writing",
+      "skill": "Classroom Support: Peer Review",
+      "prompt": "During peer review, a teacher asks students to give feedback on clarity. How can a paraprofessional best support this activity?",
+      "choices": {
+        "A": "Encourage students to identify one sentence that is confusing and ask a question about it.",
+        "B": "Tell students to correct every error in their partner’s paper.",
+        "C": "Decide which student has written the best paragraph.",
+        "D": "Tell students not to make any comments unless the writing is perfect."
+      },
+      "correct": "A",
+      "correctAnswer": "Encourage students to identify one sentence that is confusing and ask a question about it.",
+      "explanation": "This strategy supports peer feedback focused on clarity without taking over the teacher’s role."
+    },
+    {
+      "id": "PARAPRO1-086",
+      "itemType": "mcq_single",
+      "type": "mcq",
+      "section": "full",
+      "category": "Writing",
+      "skill": "Classroom Support: Revision Checklists",
+      "prompt": "A student finishes a draft quickly and says it does not need revision. The teacher has provided a revision checklist. What should the paraprofessional do?",
+      "choices": {
+        "A": "Tell the student revision is unnecessary if the draft is complete.",
+        "B": "Use the checklist to guide the student through reviewing one item at a time.",
+        "C": "Rewrite the draft while the student watches.",
+        "D": "Give the student a final score for the assignment."
+      },
+      "correct": "B",
+      "correctAnswer": "Use the checklist to guide the student through reviewing one item at a time.",
+      "explanation": "A revision checklist helps the student review the draft independently and systematically."
+    },
+    {
+      "id": "PARAPRO1-087",
+      "itemType": "mcq_single",
+      "type": "mcq",
+      "section": "full",
+      "category": "Writing",
+      "skill": "Classroom Support: Sentence Combining",
+      "prompt": "A student’s draft includes many short sentences: “The bird built a nest. The nest was in a tree. The tree was near our window.” Which support strategy is most appropriate?",
+      "choices": {
+        "A": "Show the student how to combine related ideas while keeping the meaning clear.",
+        "B": "Tell the student to remove all details about the bird.",
+        "C": "Replace the student’s paragraph with a paragraph from a book.",
+        "D": "Mark the writing as incorrect without explaining why."
+      },
+      "correct": "A",
+      "correctAnswer": "Show the student how to combine related ideas while keeping the meaning clear.",
+      "explanation": "This support helps the student improve sentence flow while preserving the student’s own ideas."
+    },
+    {
+      "id": "PARAPRO1-088",
+      "itemType": "mcq_single",
+      "type": "mcq",
+      "section": "full",
+      "category": "Writing",
+      "skill": "Classroom Support: Transitions",
+      "prompt": "A student writes a how-to paragraph, but the steps are hard to follow. Under the teacher’s direction, what should a paraprofessional suggest?",
+      "choices": {
+        "A": "Add transition words such as first, next, and finally to show the order of steps.",
+        "B": "Add more exclamation points to make the paragraph exciting.",
+        "C": "Remove all sentences that include action verbs.",
+        "D": "Change the topic from a how-to paragraph to a story."
+      },
+      "correct": "A",
+      "correctAnswer": "Add transition words such as first, next, and finally to show the order of steps.",
+      "explanation": "Sequence transitions help readers follow the steps in a how-to paragraph."
+    },
+    {
+      "id": "PARAPRO1-089",
+      "itemType": "mcq_single",
+      "type": "mcq",
+      "section": "full",
+      "category": "Writing",
+      "skill": "Paragraph Organization",
+      "prompt": "Read the sentences.\n1. Finally, students label the drawing with the names of each plant part. \n2. First, students observe the flower carefully. \n3. Next, they sketch the stem, leaves, and petals. \n4. Then, they compare their drawings with a partner. \nWhich order makes the most logical paragraph?",
+      "choices": {
+        "A": "1, 2, 3, 4",
+        "B": "2, 3, 4, 1",
+        "C": "3, 1, 2, 4",
+        "D": "4, 2, 1, 3"
+      },
+      "correct": "B",
+      "correctAnswer": "2, 3, 4, 1",
+      "explanation": "The sequence moves logically from observing the flower, to drawing it, to comparing drawings, to labeling the final drawing."
+    },
+    {
+      "id": "PARAPRO1-090",
+      "itemType": "mcq_single",
+      "type": "mcq",
+      "section": "full",
+      "category": "Writing",
+      "skill": "Sentence Correction",
+      "prompt": "Choose the best correction for the sentence.\nThe students was excited to share their book reports with the class.",
+      "choices": {
+        "A": "The students was excited to share their book reports with the class.",
+        "B": "The students were excited to share their book reports with the class.",
+        "C": "The students is excited to share their book reports with the class.",
+        "D": "The students has been excited to share their book reports with the class."
+      },
+      "correct": "B",
+      "correctAnswer": "The students were excited to share their book reports with the class.",
+      "explanation": "The plural subject “students” needs the plural verb “were.”"
+    }
+  ]
+}

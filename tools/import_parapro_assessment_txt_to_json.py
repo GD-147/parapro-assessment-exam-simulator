@@ -316,10 +316,19 @@ def copy_pdfs_and_build_printables():
         dest = PDF_OUT_DIR / pdf.name
         shutil.copy2(pdf, dest)
 
+        stem = pdf.stem.lower()
         label_base = pdf.stem.replace("_", " ").replace("-", " ").strip().title()
         m = re.search(r"(\d+)", pdf.stem)
-        if m:
-            label = f"ParaPro Assessment Practice Test {int(m.group(1)):02d}"
+        num = f"{int(m.group(1)):02d}" if m else ""
+
+        if "reading" in stem:
+            label = f"ParaPro Assessment Reading Practice Test {num}".strip()
+        elif "mathematics" in stem or "math" in stem:
+            label = f"ParaPro Assessment Mathematics Practice Test {num}".strip()
+        elif "writing" in stem:
+            label = f"ParaPro Assessment Writing Practice Test {num}".strip()
+        elif m:
+            label = f"ParaPro Assessment Practice Test {num}"
         else:
             label = label_base
 

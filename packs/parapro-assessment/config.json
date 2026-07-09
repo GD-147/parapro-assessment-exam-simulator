@@ -2,7 +2,7 @@
   "examId": "parapro-assessment",
   "brandName": "ParaPro Assessment Exam Simulator",
   "theme": "dark",
-  "logoPath": "../packs/parapro-assessment/assets/logo.png?v=2",
+  "logoPath": "../packs/parapro-assessment/assets/logo.png?v=1",
   "accessPassword": "PARAPROREADY",
   "practiceChunkSize": 10,
   "nav": [
@@ -18,8 +18,23 @@
       "timeLabel": "Recommended practice time: 150 minutes",
       "examQuestions": 90,
       "type": "mcq",
-      "examFiles": []
+      "examFiles": [
+        "parapro_assessment_exam_01.json"
+      ]
     }
   ],
-  "printables": []
+  "printables": [
+    {
+      "label": "ParaPro Assessment Reading Practice Test 01",
+      "file": "parapro_assessment_reading_exam_01.pdf"
+    },
+    {
+      "label": "ParaPro Assessment Mathematics Practice Test 01",
+      "file": "parapro_assessment_mathematics_exam_01.pdf"
+    },
+    {
+      "label": "ParaPro Assessment Writing Practice Test 01",
+      "file": "parapro_assessment_writing_exam_01.pdf"
+    }
+  ]
 }
