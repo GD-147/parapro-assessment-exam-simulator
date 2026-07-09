@@ -1,0 +1,25 @@
+{
+  "examId": "parapro-assessment",
+  "brandName": "ParaPro Assessment Exam Simulator",
+  "theme": "dark",
+  "logoPath": "../packs/parapro-assessment/assets/logo.png?v=2",
+  "accessPassword": "PARAPROREADY",
+  "practiceChunkSize": 10,
+  "nav": [
+    "Home",
+    "Exam Simulator",
+    "Printable Practice Exams"
+  ],
+  "sections": [
+    {
+      "id": "full",
+      "label": "ParaPro Assessment Practice Test",
+      "timeMin": 150,
+      "timeLabel": "Recommended practice time: 150 minutes",
+      "examQuestions": 90,
+      "type": "mcq",
+      "examFiles": []
+    }
+  ],
+  "printables": []
+}

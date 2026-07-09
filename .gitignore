@@ -1,0 +1,7 @@
+.git_old/
+.DS_Store
+imports/
+__pycache__/
+*.pyc
+Exams/
+
